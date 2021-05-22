@@ -1,0 +1,5 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/d541f3d2-4648-467a-9615-09015e30c06e/resourceGroups/DefaultResourceGroup-CAU/providers/Microsoft.Web/sites/flutter-node-google-signin",
+    "appService.deploySubpath": ".",
+    "git.ignoreLimitWarning": true
+}
